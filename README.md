@@ -97,8 +97,7 @@ Each recommendation includes:
 
 ## Demo
 
-[Watch demo video](https://drive.google.com/file/d/1BBNtd3-V3NXQ4X0lokshXC_VK24axKg_/view?usp=sharing)
-
+[Watch demo video]https://drive.google.com/file/d/1av3CRwKdnEhqNT3hk5_nlqcn12FXvIAc/view?usp=sharing
 ---
 
 ## Setup
