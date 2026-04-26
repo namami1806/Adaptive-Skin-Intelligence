@@ -29,7 +29,7 @@ app = FastAPI(
 # Allow React frontend (localhost:3000) to call this API
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://localhost:5173"],
+    allow_origins=["http://localhost:3000", "http://localhost:5173", "https://adaptive-skin-intelligence.vercel.app"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
